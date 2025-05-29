@@ -1,3 +1,6 @@
 [submodule "dependencies/ft_printf"]
 	path = dependencies/ft_printf
 	url = git@github.com:Flingocho/ft_printf.git
+[submodule "dependencies/libft"]
+	path = dependencies/libft
+	url = git@github.com:Flingocho/libft.git
